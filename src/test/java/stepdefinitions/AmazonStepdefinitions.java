@@ -97,5 +97,6 @@ public class AmazonStepdefinitions {
         Assert.assertTrue(actualUrunIsmi.contains(arananKelime));
 
     }
+    //ayten//
 
 }
