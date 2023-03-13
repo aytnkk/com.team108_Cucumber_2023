@@ -97,6 +97,10 @@ public class AmazonStepdefinitions {
         Assert.assertTrue(actualUrunIsmi.contains(arananKelime));
 
     }
-    //ayten//
 
+
+    @Then("amazonda <kelimeler> icin arama yapar")
+    public void amazondaKelimelerIcinAramaYapar() {
+
+    }
 }
